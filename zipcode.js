@@ -1,3 +1,3 @@
 var zipcode = require('zipcode');
 
-console.log(zipcode.lookup('CV24LE'));
+console.log(zipcode.lookup('01913'));
